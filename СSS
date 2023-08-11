@@ -1,0 +1,185 @@
+Frame 
+
+
+width: 1045px;
+height: 1187px;
+background: #FFF;
+
+
+Logo
+
+width: 59px;
+height: 59px;
+flex-shrink: 0;
+background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+blob:https://www.figma.com/7594047f-f885-4307-9cda-d2b614443fa8
+
+
+KNS
+
+color: #000;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+
+ИНТЕРНЕТ-МАГАЗИН
+
+color: #000;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+
+9:00 - 22:00 (time)
+
+width: 151px;
+color: #000;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+
+Line 1
+
+width: 1045.004px;
+height: 2px;
+background: #000;
+
+
+Arrow 1
+
+width: 30px;
+height: 0px;
+flex-shrink: 0;
+stroke-width: 3px;
+stroke: #000;
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="24" viewBox="0 0 32 24" fill="none">
+  <path d="M31.0607 13.0607C31.6464 12.4749 31.6464 11.5251 31.0607 10.9393L21.5147 1.3934C20.9289 0.807611 19.9792 0.807611 19.3934 1.3934C18.8076 1.97919 18.8076 2.92893 19.3934 3.51472L27.8787 12L19.3934 20.4853C18.8076 21.0711 18.8076 22.0208 19.3934 22.6066C19.9792 23.1924 20.9289 23.1924 21.5147 22.6066L31.0607 13.0607ZM3.36965e-10 13.5L30 13.5L30 10.5L-3.36965e-10 10.5L3.36965e-10 13.5Z" fill="black"/>
+</svg>
+
+
+АКЦИИ
+
+color: #000;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+
+НОВОСТИ
+
+color: #000;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+
+ПОМОЩ
+
+color: #000;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+
+НАШИ МАГАИЗНЫ
+
+color: #000;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+
+ТОВАРЫ
+color: #000;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+
+
+ЖАЛОБЫ
+
+color: #000;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+
+БРЕНДЫ
+
+color: #000;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+
+ГРАФИК РАБОТЫ
+
+color: #000;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+
+
+Rectangle 1
+
+width: 1045px;
+height: 998px;
+flex-shrink: 0;
+background: #CACACA;
+
+
+Rectangle 2
+width: 740px;
+height: 179px;
+flex-shrink: 0;
+background: #FFF;
+
+
+Rectangle 3
+width: 740px;
+height: 179px;
+flex-shrink: 0;
+background: #FFF;
+
+
+Rectangle 6
+
+width: 740px;
+height: 179px;
+flex-shrink: 0;
+background: #FFF;
+
+
+Rectangle 7
+
+width: 740px;
+height: 179px;
+flex-shrink: 0;
+background: #FFF;
+
+
+
